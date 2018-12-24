@@ -8,8 +8,7 @@ Source Files:
 - enc.c, used for encyrpting messages
 - socket.c, the sockets used for communicating
 
-Compilation Command:
-- make
+Compilation Command: `make`
 
 Launching Instructions:
 1. In one terminal window, change the directory to where the files are located, type "make" and hit the Enter key to create the executable called "a4chat"
