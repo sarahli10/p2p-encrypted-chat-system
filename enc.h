@@ -1,0 +1,1 @@
+void encryptStr(char *src, char *dest, int len);

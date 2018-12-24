@@ -1,0 +1,1 @@
+unsigned char encrypt(unsigned char c, unsigned char k);
