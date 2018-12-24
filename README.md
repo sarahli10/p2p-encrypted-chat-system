@@ -11,9 +11,9 @@ Source Files:
 Compilation Command: `make`
 
 Launching Instructions:
-1. In one terminal window, change the directory to where the files are located, type "make" and hit the Enter key to create the executable called "a4chat"
-2. Type "./a4chat" in the same window and hit Enter to run the program
-3. Open another terminal window and change the directory just like before, type "./a4chat 127.0.0.1" and hit Enter to run the program
+1. In one terminal window, change the directory to where the files are located, type `make` and hit the Enter key to create the executable called "a4chat"
+2. Type `./a4chat` in the same window and hit Enter to run the program
+3. Open another terminal window and change the directory just like before, type `./a4chat 127.0.0.1` and hit Enter to run the program
 
 Operating Instructions:
 1. The two users will take turns sending messages, the user who entered the IP address will go first.
