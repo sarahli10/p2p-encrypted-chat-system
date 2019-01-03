@@ -1,7 +1,9 @@
 # p2p-encrypted-chat-system
-A peer-to-peer encrypted chat system that communicates over TCP/IP sockets.
 
 Authors: Dr. Christine Laurendeau, Sarah Li
+
+## Overview:
+A peer-to-peer encrypted chat system that communicates over TCP/IP sockets.
 
 ## Source Files:
 - chat.c, basis of the chat system
