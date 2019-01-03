@@ -6,15 +6,15 @@ Authors: Dr. Christine Laurendeau, Sarah Li
 A peer-to-peer encrypted chat system that communicates over TCP/IP sockets.
 
 ## Source Files:
-- chat.c, basis of the chat system
-- enc.c, used for encyrpting messages
-- socket.c, the sockets used for communicating
+- `chat.c`, basis of the chat system
+- `enc.c`, used for encyrpting messages
+- `socket.c`, the sockets used for communicating
 
 ## Compilation Command:
 `make`
 
 ## Launching Instructions:
-1. In one terminal window, change the directory to where the files are located, type `make` and hit the Enter key to create the executable called "a4chat"
+1. In one terminal window, change the directory to where the files are located, type `make` and hit the Enter key to create the executable called `a4chat`
 2. Type `./a4chat` in the same window and hit Enter to run the program
 3. Open another terminal window and change the directory just like before, type `./a4chat 127.0.0.1` and hit Enter to run the program
 
